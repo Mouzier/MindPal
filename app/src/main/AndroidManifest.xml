@@ -10,13 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MindPal">
         <activity
-            android:name=".Intro_1"
+            android:name=".Intro_2"
             android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true" />
         <activity
-            android:name=".Intro_2"
+            android:name=".Intro_1"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
