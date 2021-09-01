@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MindPal">
         <activity
+            android:name=".Sleep"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SocialMedia"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".Intro_2"
             android:exported="true" />
         <activity
