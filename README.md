@@ -1,7 +1,7 @@
 # MindPal
 Mental Health App for students
 
-MindPal is an app specially designed for students which is a user-friendly and is helpful in relieving stress and improves user's mood. The app is not completely implemented. A demo on how the app functions is given in the link below.
+MindPal is an app specially designed for students which is user-friendly and is helpful in relieving stress and improves user's mood. The app is not completely implemented. A demo on how the app functions is given in the link below.
 
 https://drive.google.com/drive/folders/1zKHg95uRQk6bZMZbkQua6R6M9nYoeJQn?usp=sharing
 
